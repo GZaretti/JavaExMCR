@@ -1,8 +1,10 @@
 package app;
 
+import AbstractSingleton.SingletonChildHA;
+import AbstractSingleton.SingletonHA;
 import Singleton.Singleton;
 import SingletonHeritage.SingletonH;
-import SingletonHeritage.SingletonSubClass;
+import SingletonHeritage.SingletonChildH;
 
 public class app {
     public static void main(String[] args){
@@ -12,8 +14,16 @@ public class app {
 
        //test Singleton Heritage
         try {
-            SingletonH.register(SingletonSubClass.class.getName());
+            SingletonH.register(SingletonChildH.class.getName());
             System.out.println(SingletonH.getInstance().getClass().getName());
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+
+        //test Singleton Hertigae Parent habstract
+        try {
+            SingletonHA.register(SingletonChildHA.class);
+            System.out.println(SingletonChildHA.getInstance().getClass().getName());
         } catch (Exception e) {
             e.printStackTrace();
         }
