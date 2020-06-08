@@ -1,0 +1,31 @@
+Découplage et abstracton de l'implémentation de sorte que les deux peuvent varié indépendament
+Classe abstrête et interface pas suffisament adaptable avec l'héritage
+
+Jeux ou l'implémentation switch ou est séléctionnée au runtime
+     abstraction et implémentation extensible par sous classement
+	 parager une même représenation d'objet
+	 
+( -- ) Combat contre un super virus métamorphe qui change d'implémentation en fonction du type de client et qui évolue
+ 	et se renforce en fonction du type de client , séquencé le méga métamorphe en fonction du type de client et 
+	devoir trouver ça vulnérabilité évolutive qui peut être influencé par le type de client et le nombre de client aux quel il doit faire face
+	(Jeux d'énigme, séquencage, vaincre par la découverte d'une vulnérabilité)
+	On peut envoyer des armées de types de client différents et le métamorphe peut s'adapter ou se modifier pour survivre.
+
+ -- Descriptif du jeux du virus (sans aller loins){jauge de résistance, 
+ Le virus résiste à A, B et C
+ 
+ incrémneer 3 fosi A si on envoit 3 fois A
+ si on envoie B 2 fois  on incrémente B 2 fois
+ 
+ Décrémentation et incrémentation
+ si sup à 10 est résistent à ....>
+ 
+ }
+ 
+ Focalisée l'aspect ludique et pédagogique du paterne que l'élaboration complet et compliqué
+ 
+ -- patern adapter pour le changement d'implémentation avec le bridg qui fait le lien entre l'abstration et l'implémentation
+
+ 
+ 
+ 

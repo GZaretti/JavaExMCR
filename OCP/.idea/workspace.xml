@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0c7e5149-63a0-4f29-9c64-364675a97d4d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1btpfSJKR9Sjp7X6RDNxOgNOAyO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="full.screen.before.presentation.mode" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+      <recent name="reduces" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="OCP" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0c7e5149-63a0-4f29-9c64-364675a97d4d" name="Default Changelist" comment="" />
+      <created>1589461346736</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589461346736</updated>
+      <workItem from="1589461348383" duration="5186000" />
+      <workItem from="1591354427095" duration="5000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2680" y="179" width="378" height="565" key="#com.intellij.ide.util.MemberChooser" timestamp="1589463926239">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2680" y="179" width="378" height="565" key="#com.intellij.ide.util.MemberChooser/1920.0.1920.1080/0.0.1920.1200@1920.0.1920.1080" timestamp="1589463926239" />
+    <state width="1870" height="285" key="GridCell.Tab.0.bottom" timestamp="1589466535690">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="910" height="285" key="GridCell.Tab.0.bottom.inPresentationMode" timestamp="1589466118829">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="910" height="285" key="GridCell.Tab.0.bottom.inPresentationMode/1920.0.1920.1080/0.0.1920.1200@1920.0.1920.1080" timestamp="1589466118829" />
+    <state width="1870" height="285" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.0.1920.1200@1920.0.1920.1080" timestamp="1589466535690" />
+    <state width="1870" height="285" key="GridCell.Tab.0.center" timestamp="1589466535689">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="910" height="285" key="GridCell.Tab.0.center.inPresentationMode" timestamp="1589466118829">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="910" height="285" key="GridCell.Tab.0.center.inPresentationMode/1920.0.1920.1080/0.0.1920.1200@1920.0.1920.1080" timestamp="1589466118829" />
+    <state width="1870" height="285" key="GridCell.Tab.0.center/1920.0.1920.1080/0.0.1920.1200@1920.0.1920.1080" timestamp="1589466535689" />
+    <state width="1870" height="285" key="GridCell.Tab.0.left" timestamp="1589466535689">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="910" height="285" key="GridCell.Tab.0.left.inPresentationMode" timestamp="1589466118829">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="910" height="285" key="GridCell.Tab.0.left.inPresentationMode/1920.0.1920.1080/0.0.1920.1200@1920.0.1920.1080" timestamp="1589466118829" />
+    <state width="1870" height="285" key="GridCell.Tab.0.left/1920.0.1920.1080/0.0.1920.1200@1920.0.1920.1080" timestamp="1589466535689" />
+    <state width="1870" height="285" key="GridCell.Tab.0.right" timestamp="1589466535689">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="910" height="285" key="GridCell.Tab.0.right.inPresentationMode" timestamp="1589466118829">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="910" height="285" key="GridCell.Tab.0.right.inPresentationMode/1920.0.1920.1080/0.0.1920.1200@1920.0.1920.1080" timestamp="1589466118829" />
+    <state width="1870" height="285" key="GridCell.Tab.0.right/1920.0.1920.1080/0.0.1920.1200@1920.0.1920.1080" timestamp="1589466535689" />
+    <state width="1870" height="285" key="GridCell.Tab.1.bottom" timestamp="1589466535690">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1870" height="285" key="GridCell.Tab.1.bottom/1920.0.1920.1080/0.0.1920.1200@1920.0.1920.1080" timestamp="1589466535690" />
+    <state width="1870" height="285" key="GridCell.Tab.1.center" timestamp="1589466535690">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1870" height="285" key="GridCell.Tab.1.center/1920.0.1920.1080/0.0.1920.1200@1920.0.1920.1080" timestamp="1589466535690" />
+    <state width="1870" height="285" key="GridCell.Tab.1.left" timestamp="1589466535690">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1870" height="285" key="GridCell.Tab.1.left/1920.0.1920.1080/0.0.1920.1200@1920.0.1920.1080" timestamp="1589466535690" />
+    <state width="1870" height="285" key="GridCell.Tab.1.right" timestamp="1589466535690">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1870" height="285" key="GridCell.Tab.1.right/1920.0.1920.1080/0.0.1920.1200@1920.0.1920.1080" timestamp="1589466535690" />
+    <state x="2539" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1591354426768">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2539" y="343" key="com.intellij.ide.util.TipDialog/1920.0.1920.1080/0.0.1920.1200@1920.0.1920.1080" timestamp="1591354426768" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
