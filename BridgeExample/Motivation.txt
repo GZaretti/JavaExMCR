@@ -1,0 +1,36 @@
+
+Motivation
+	- l'héritage lie une implémentation à son abstraction en permanence ce qui rend difficilie la modification,
+	l'extension. (Ici faire un diagrame et exemple de code 
+	 avec abstraction par les interfaces et implémentation dépendente de l'interface
+	 avec la mise en évidence des soucis d'ajout et de modification etc...
+	démontrer le problème dans le diagrame de classe et le code qui lui correspond)
+	
+	- Hillustration des deux problèmes sur un même modèle
+		1/ Etendre l'abstraction pour gérer de nouveau type
+			- donc la catastrophe est que si nous voulons une nouvelle implémentations 
+			nous devons redéfinir n classes si nous avons n type abstrait
+			
+	    2/ Code dépendant de la plateforme. chaque fois qu'un type est créer, une instanciation
+		concrète avec une implémentation spécifique et générer. Le portage du code vers d'autre plateforme
+		devient difficile. On doit pouvoir instancier un type sans mentionner la plateforme ou l'implémentation
+		concrète qu'il doit avoir.
+	Modèle de la solution
+	
+	
+	
+
+Motivation
+	- abstraction (interface) / implémentation
+		-modèle
+		-petit programme concret
+			-2 problème avec lagout dec qui pause problème en rouge
+
+	- solution patern pont
+		-modèle
+		-petit programme concret
+			-mettre en vert les updates avec les avantage
+
+Conséquent
+	- L'idée de ce qu'on veut implémenter dans le projet pratique
+	     Dire qu'on va faire ce projet là pour ce patern
